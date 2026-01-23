@@ -39,7 +39,7 @@ I'm a Computer Science graduate and **Java** Full Stack Developer who loves buil
 ### 📫 Connect with Me
 
 - **Email:** sagarkirtakar2002@gmail.com  
-- **LinkedIn:** linkedin.com/in/sagarkirtakar  
+- **LinkedIn:** [linkedin.com/in/sagarkirtakar ](https://www.linkedin.com/in/sagar-kirtakar-47255a202/) 
 
 If you like my work, feel free to ⭐ some repositories or reach out for collaboration!
 
