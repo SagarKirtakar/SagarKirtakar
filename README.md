@@ -33,7 +33,7 @@ I'm a Computer Science graduate and **Java** Full Stack Developer who loves buil
 
 ### 📚 Certifications & Interests
 
-- Certifications: HTML (KnowledgeGate), Python for Beginners (Infosys Springboard).
+- Certifications: HTML (KnowledgeGate), Python for Beginners (Infosys Springboard), AI Skills Passport (EY and Microsoft).
 - Currently exploring: Microservices, React.js, Spring Security, JWT, Docker, AWS, Kafka, Agile, and more.
 
 ### 📫 Connect with Me
