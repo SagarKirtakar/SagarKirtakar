@@ -26,7 +26,7 @@ I'm a Computer Science graduate and **Java** Full Stack Developer who loves buil
 ### 💼 Experience & Education
 
 - **Java Full Stack Developer Intern – I-Rise Software Training Institute, Pune**  
-  Built and deployed full-stack applications using Core/Advanced Java, Spring, Hibernate, and REST APIs, with responsive UIs and Git-based workflows.
+  Built and deployed full-stack applications using Core/Advanced Java, Spring, Hibernate, and REST APIs, with responsive UIs and Git-  based workflows.
 
 - **B.Tech, Computer Science & Engineering** – Shri ShankarPrasad Agnihotri College of Engineering, Wardha.
 - **Diploma, Computer Science & Engineering** – Dr. Panjabrao Deshmukh Rural Polytechnic, Amravati.
