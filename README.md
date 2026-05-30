@@ -4,9 +4,9 @@ I'm a Computer Science graduate and **Java** Full Stack Developer who loves buil
 
 ### 🚀 About Me
 
-- Java Full Stack Developer focused on Spring Boot, Hibernate, REST APIs, and MySQL.[file:1]  
-- Passionate about writing clean, maintainable code and learning backend and system design concepts.[file:1]  
-- Comfortable building end-to-end web applications with responsive UIs using HTML, CSS, JavaScript, Bootstrap, and Thymeleaf.[file:1]  
+- Java Full Stack Developer focused on Spring Boot, Hibernate, REST APIs, and MySQL.
+- Passionate about writing clean, maintainable code and learning backend and system design concepts. 
+- Comfortable building end-to-end web applications with responsive UIs using HTML, CSS, JavaScript, Bootstrap, and Thymeleaf.  
 
 ### 🛠 Tech Stack
 
