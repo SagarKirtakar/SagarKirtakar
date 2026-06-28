@@ -39,19 +39,17 @@ I'm a Computer Science graduate and **Java** Full Stack Developer who loves buil
 ## 🌐 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/sagar-kirtakar">
-<img src="https://skillicons.dev/icons?i=linkedin" width="48">
-</a>
-
-<a href="https://github.com/SagarKirtakar">
-<img src="https://skillicons.dev/icons?i=github" width="48">
-</a>
-<a href="mailto:sagarkirtakar2002@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="45" />
-</a>
-<a href="https://leetcode.com/u/sagarkirtakar2002/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
+  <a href="https://www.linkedin.com/in/sagar-kirtakar-47255a202/?skipRedirect=true" target="_blank"> 
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" /> </a>
+  
+  <a href="https://github.com/SagarKirtakar" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="45" /> </a> 
+    
+  <a href="mailto:sagarkirtakar2002@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" /> </a> 
+    
+  <a href="https://leetcode.com/u/sagarkirtakar2002/" target="_blank"> 
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /> </a>
 </p>
 If you like my work, feel free to ⭐ some repositories or reach out for collaboration!
 
