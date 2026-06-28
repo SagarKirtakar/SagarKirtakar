@@ -36,10 +36,22 @@ I'm a Computer Science graduate and **Java** Full Stack Developer who loves buil
 - Certifications: HTML (KnowledgeGate), Python for Beginners (Infosys Springboard), AI Skills Passport (EY and Microsoft).
 - Currently exploring: Microservices, React.js, Spring Security, JWT, Docker, AWS, Kafka, Agile, and more.
 
-### 📫 Connect with Me
+## 🌐 Connect with Me
 
-- **Email:** sagarkirtakar2002@gmail.com  
-- **LinkedIn:** [linkedin.com/in/sagarkirtakar ](https://www.linkedin.com/in/sagar-kirtakar-47255a202/) 
+<p align="left">
+<a href="https://linkedin.com/in/sagar-kirtakar">
+<img src="https://skillicons.dev/icons?i=linkedin" width="48">
+</a>
 
+<a href="https://github.com/SagarKirtakar">
+<img src="https://skillicons.dev/icons?i=github" width="48">
+</a>
+<a href="mailto:sagarkirtakar2002@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="45" />
+</a>
+<a href="https://leetcode.com/u/sagarkirtakar2002/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+</p>
 If you like my work, feel free to ⭐ some repositories or reach out for collaboration!
 
